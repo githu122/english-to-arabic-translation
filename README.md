@@ -1,4 +1,5 @@
 # English → Arabic Translator 🌍
+![App Screenshot](translation.png)
 
 Translate English text into **Modern Arabic** using **Hugging Face Transformers** + **Gradio**.
 
