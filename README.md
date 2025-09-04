@@ -4,7 +4,8 @@
 Translate English text into **Modern Arabic** using **Hugging Face Transformers** + **Gradio**.
 
 ## 🚀 Live Demo  
-👉 [Try it on Hugging Face](https://huggingface.co/spaces/Fatima1228/english-to-arabic-translator)
+👉 [Try it on Hugging Face](<img width="806" height="498" alt="image" src="https://github.com/user-attachments/assets/7583cfba-4042-49ce-85ff-7d1ef18a9c67" />
+)
 
 ---
 
